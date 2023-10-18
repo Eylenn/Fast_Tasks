@@ -1,0 +1,13 @@
+body {
+    overflow-x: hidden;
+}
+
+.encabezado {
+    color: #000000;
+  font-family: fantasy 
+}
+
+.letras {
+  color: #000000;
+  font-family: times new roman
+}
