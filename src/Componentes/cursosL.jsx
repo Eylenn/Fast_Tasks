@@ -10,7 +10,7 @@ function CursosL() {
           <div className="card">
             <div className="card-header encabezado">
               <small>Materias | Física</small>
-            </div>
+            </div> 
             <div className="card-body">
               <h5 className="card-title encabezado">Electrostática</h5>
               <div className="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
