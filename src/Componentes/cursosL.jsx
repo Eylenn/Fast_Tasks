@@ -15,7 +15,7 @@ function CursosL() {
               <h5 className="card-title encabezado">Electrostática</h5>
               <div className="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
                 <div className="progress-bar progress-bar-striped progress-bar-animated" style={{ width: "30%" }}>
-                  30%
+                  30% 
                 </div>
               </div>
               <p className="card-text pt-2">Avance general.</p>
